@@ -1,6 +1,8 @@
 language: "en"
 tests:
   - sentences:
+      - "put on all the lights in the living room"
+      - "switch on all the lights in the living room"
       - "turn on all the lights in the living room"
       - "turn on all the lights in living room"
       - "turn on the light in the living room"

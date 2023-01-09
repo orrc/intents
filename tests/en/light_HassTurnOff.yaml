@@ -1,6 +1,8 @@
 language: "en"
 tests:
   - sentences:
+      - "put off all the lights in the kitchen"
+      - "switch off all the lights in the kitchen"
       - "turn off all the lights in the kitchen"
       - "turn off all the lights in kitchen"
       - "turn off the light in the kitchen"
